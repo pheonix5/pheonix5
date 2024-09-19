@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá Devs, me chamo Lucas Felix, tenho 28 anos e sou apaixonado pela area de Tecnologia<br>Atualmente atuo como suporte de Ti com 4 anos de experiência<br>Formando em Análise e desenvolvimento de sistema<br>Estou a procura da primeira oportunidade como programador Junior<br>Especializando em React, React Native e nodejs.<br><br>
+Olá Devs, me chamo Lucas Felix, tenho 28 anos e sou apaixonado pela area de Tecnologia<br>Atualmente atuo como suporte de Ti com 5 anos de experiência<br>Formando em Análise e desenvolvimento de sistema<br>Estou a procura da primeira oportunidade como programador Junior<br>Especializando em React, React Native e nodejs.<br><br>
 
 
 ## 🌐 Socials:
